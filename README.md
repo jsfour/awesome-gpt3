@@ -44,6 +44,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 	- [EthiData](https://www.ethi.me/)
 - [VWO - Website Copy Competiton](https://vwo.com/ab-testing-openai-gpt-3/)
 - [Email Plugins](#email-plugins)
+  - [MailMentor](https://mailmentor.io)
   - [MagicEmail](https://magicemail.io)
   - [Compose](https://compose.ai)
 
